@@ -10,10 +10,11 @@
 mkdir build
 cd build
 cmake ..
+cmake --build .
 ```
 
 ### Run
 ```
 cd build
-cmake --build .
+./mongocc-connection
 ```

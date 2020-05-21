@@ -16,5 +16,5 @@ cmake --build .
 ### Run
 ```
 cd build
-./mongocc-connection
+./mongoc-connection
 ```
